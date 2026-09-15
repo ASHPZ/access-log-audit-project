@@ -19,5 +19,5 @@ This investigation and subsequent recommendations align with industry best pract
 * **Identity and Access Management (IAM) Best Practices:** Assessed the lifecycle of user accounts, highlighting the critical need for strict offboarding procedures and Role-Based Access Control (RBAC).
 
 ## Documentation Included
-* **Incident_Access_Control_Report.pdf:** The finalized incident report detailing the audit notes, identified access control issues, and the formal recommendations for security mitigation.
-* **Log.xlsx:** A log describing the incident and containing a table of company employees.
+* **[Incident_Access_Control_Report.pdf](./Incident_Access_Control_Report.pdf):** The finalized incident report detailing the audit notes, identified access control issues, and the formal recommendations for security mitigation.
+* **[Log.xlsx](./Log.xlsx):** A log describing the incident and containing a table of company employees.
